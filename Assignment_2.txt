@@ -1,0 +1,43 @@
+Q1. Guido van Rossum developed Python Programming Language.
+
+Q2. Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. It supports multiple programming paradigms beyond object-oriented programming, such as procedural and functional programming.
+
+Q3. Yes, Python is case sensitive while dealing with identifiers.
+
+Q4. Correct extension of python file is .py
+
+Q5. Python is an interpreted language.
+
+Q6. Indentation is required to in python.
+
+Q7. # is used to five single line comment in python.
+
+Q8. sys.version can help us to find the version of python.
+
+Q9. Lambda.
+
+Q10. python install package.
+
+Q11. print(), sum(), input(), int(), float(), str()
+
+Q12. 79 characters.
+
+Q13. It is dynamically typed language.
+
+Q14. Python uses the dynamic memory allocation which is managed by the Heap data structure.
+
+Q15. Download python.exe file from python.org
+
+The complete path of python.exe can be added by:
+
+Right-clicking This PC and going to Properties.
+
+Clicking on the Advanced system settings in the menu on the left.
+
+Clicking on the Environment Variables button o​n the bottom right.
+
+In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+
+Clicking on New and entering Python’s install directory.
+
+Q16. Yes, indentation is required in python.
